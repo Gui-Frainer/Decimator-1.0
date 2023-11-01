@@ -65,6 +65,6 @@ created_by_label.pack(side="bottom", padx=10, pady=10)
 source_code_label = tk.Label(app, text="github.com/Gui-Frainer/Downsampler-1.0")
 source_code_label.pack(side="bottom", padx=10, pady=10)
 
-app.iconbitmap("D:/Postdoc/Downsampler 1_0/logo_D.ico")
+
 
 app.mainloop()
